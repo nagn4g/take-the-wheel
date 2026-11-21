@@ -10,6 +10,8 @@ A short poem about permission: taking the wheel, and the road becoming the way h
 
 The speaker asks to take the wheel, is given it, drives, and takes the turn without asking.
 
+At the end, the speaker takes the turn they would have asked about, without asking.
+
 The poem is 262 Unicode code points and 264 UTF-8 bytes. The program writes it to `/output/entry.txt` with no trailing newline.
 
 ## Run it
